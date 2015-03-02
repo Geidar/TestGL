@@ -8,7 +8,7 @@
       </java.lang.Integer-array>
       <java.lang.Integer-array>
         <null/>
-        <null/>
+        <int>0</int>
         <null/>
       </java.lang.Integer-array>
       <java.lang.Integer-array>
@@ -5039,7 +5039,53 @@
   <canvasValid>true</canvasValid>
   <whoUpdated>scroll</whoUpdated>
   <valueOfjcbZoom>100%</valueOfjcbZoom>
-  <linesToDraw/>
+  <linesToDraw>
+    <ide__avispBeta.CurrentSession_-LineToDraw>
+      <BeginConn>0</BeginConn>
+      <EndConn>1</EndConn>
+      <WhatOutput>1</WhatOutput>
+      <WhatInput>1</WhatInput>
+      <idCanvas>Diagram_0.lida</idCanvas>
+    </ide__avispBeta.CurrentSession_-LineToDraw>
+  </linesToDraw>
   <iconToSaveWithProperties>
-   </iconToSaveWithProperties>
+    <entry>
+      <int>0</int>
+      <ide__avispBeta.CurrentSession_-IconToSave>
+        <valuesAndAttributes/>
+        <className>ide_avispBeta.VDefTemplate</className>
+        <locationIcon>
+          <x>170</x>
+          <y>20</y>
+        </locationIcon>
+        <iconCard>1</iconCard>
+      </ide__avispBeta.CurrentSession_-IconToSave>
+    </entry>
+    <entry>
+      <int>1</int>
+      <ide__avispBeta.CurrentSession_-IconToSave>
+        <valuesAndAttributes>
+          <entry>
+            <string>dataModuleDetails</string>
+            <string-array>
+              <string>(slot
+	
+)</string>
+              <string>(slot
+	
+	(range  )
+	(range  )
+)</string>
+            </string-array>
+          </entry>
+        </valuesAndAttributes>
+        <className>ide_avispBeta.VTemplateDetails</className>
+        <locationIcon>
+          <x>170</x>
+          <y>120</y>
+        </locationIcon>
+        <iconCard>1</iconCard>
+      </ide__avispBeta.CurrentSession_-IconToSave>
+    </entry>
+  </iconToSaveWithProperties>
 </ide__avispBeta.CurrentSession>
