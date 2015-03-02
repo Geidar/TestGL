@@ -5041,31 +5041,5 @@
   <valueOfjcbZoom>100%</valueOfjcbZoom>
   <linesToDraw/>
   <iconToSaveWithProperties>
-    <entry>
-      <int>0</int>
-      <ide__avispBeta.CurrentSession_-IconToSave>
-        <valuesAndAttributes>
-          <entry>
-            <string>dataFacts</string>
-            <list>
-              <list>
-                <string>sss</string>
-                <string>hhhhjs</string>
-              </list>
-              <list>
-                <string></string>
-                <string></string>
-              </list>
-            </list>
-          </entry>
-        </valuesAndAttributes>
-        <className>ide_avispBeta.VAddFacts</className>
-        <locationIcon>
-          <x>10</x>
-          <y>10</y>
-        </locationIcon>
-        <iconCard>1</iconCard>
-      </ide__avispBeta.CurrentSession_-IconToSave>
-    </entry>
-  </iconToSaveWithProperties>
+   </iconToSaveWithProperties>
 </ide__avispBeta.CurrentSession>
